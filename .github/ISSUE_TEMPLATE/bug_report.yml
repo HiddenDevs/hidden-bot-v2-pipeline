@@ -3,7 +3,6 @@ description: Report an issue with HiddenBot
 title: "[ Bug ]: "
 labels: ["bug"]
 project: ["HiddenDevs/10"]
-status: Planning
 body:
   - type: markdown
     attributes:
