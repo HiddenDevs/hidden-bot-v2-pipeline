@@ -1,7 +1,7 @@
 name: 🐞 Bug Report
 description: Create a report to help us improve
 labels: bug
-title: "[ Bug ]: <TITLE>"
+title: "[ Bug ]: "
 projects: HiddenDevs/10
 body:
   - type: checkboxes
