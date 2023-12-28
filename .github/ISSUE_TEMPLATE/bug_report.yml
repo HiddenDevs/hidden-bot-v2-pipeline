@@ -1,0 +1,22 @@
+name: Bug Report
+description: Report an issue with HiddenBot
+title: "[ Bug ]: "
+labels: ["bug"]
+project: ["HiddenDevs/10"]
+status: Planning
+
+# **Describe the bug**
+# A clear and concise description of what the bug is.
+
+# **To Reproduce**
+# Steps to reproduce the behavior:
+
+# 1. Do this
+# 2. Run this
+# 3. Observe issue
+
+# **Expected behavior**
+# A clear and concise description of what you expected to happen.
+
+# **Screenshots**
+# If applicable, add screenshots and/or GIFs to help explain your problem.
